@@ -15,7 +15,7 @@ for (var i = 0; i < products.length; i++) {
 
 filteredProducts;
 
-//new way using 
+//New way using 
 
 products.filter(function(product) {
 	return product.type === 'fruit';
