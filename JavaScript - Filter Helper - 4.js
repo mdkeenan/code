@@ -1,3 +1,5 @@
+// Create a function that returns all admins of type "true"
+
 var users = [
  { id: 1, admin: true },  
  { id: 2, admin: false },
